@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Helpful Registry',
     description: 'Ubuntu with additional support and functionality.',
-    icon: '/img/logo.svg',
+    icon: 'https://ari1110.github.io/kasm-registry/1.0/ubuntu.png',
     listUrl: 'https://ari1110.github.io/kasm-registry/',
     contactUrl: 'https://github.com/ari1110/kasm-registry/issues',
   },
