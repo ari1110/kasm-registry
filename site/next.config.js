@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Helpful Registry',
+    description: 'Ubuntu with additional support and functionality.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://ari1110.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/ari1110/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
